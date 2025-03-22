@@ -120,8 +120,6 @@ Open `http://localhost:3000` to view the app.
 4. Push to your branch.
 5. Open a pull request.
 
-## License
-MIT License. See `LICENSE` for details.
 
 ---
 
@@ -276,8 +274,5 @@ Push to your branch.
 
 Open a pull request.
 
-License
 
-MIT License. See LICENSE for details.
 
-🚀 AI AllCare - AI-Powered Healthcare for Everyone
