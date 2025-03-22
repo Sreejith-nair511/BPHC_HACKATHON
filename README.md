@@ -12,6 +12,10 @@ VitalSyn is a modern healthcare monitoring and patient management system built u
 - 🎨 **Dark Mode Support** - Toggle between light and dark themes.
 - 🎛 **Advanced UI Components** - Includes form elements, charts, and more.
 
+## Live Demo
+
+🔗 [Visit VitalSyn](https://vittalscan.vercel.app/)
+
 ## Installation
 
 ### Prerequisites
