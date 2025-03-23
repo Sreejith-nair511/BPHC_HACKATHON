@@ -274,8 +274,8 @@ Push to your branch.
 
 Open a pull request.
 
-<h1>The Hardware part is called as Trehan </h1>
-<h1>The softwarre part is called as Kadambani </h1>
+<h1>The Hardware part is called as Kadammbani   </h1>
+<h1>The softwarre part is called as Rukhmabai  </h1>
 
 <h1>Images </h1>
 
