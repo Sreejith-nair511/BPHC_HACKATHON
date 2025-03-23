@@ -421,3 +421,13 @@ Feel free to open issues and pull requests to contribute. Ensure that your code 
 
 ![Screenshot 2025-03-23 085409](https://github.com/user-attachments/assets/875c9689-c345-4496-9c4e-29dc63a5d184)
 ![Screenshot 2025-03-23 042224](https://github.com/user-attachments/assets/1d822ef8-3e94-4526-91f5-1325b1605303)
+
+
+
+<h1>Smart watch ideation </
+
+https://github.com/user-attachments/assets/c68176ca-52eb-4729-a08c-a10d219efcb6
+
+h1>
+
+
