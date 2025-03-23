@@ -293,9 +293,12 @@ Open a pull request.
 
 
 <h1>HARDWARE IMPLEMENTATION KADAMBANI </h1>
-![IMG-20250323-WA0008](https://github.com/user-attachments/assets/f190f6d7-9602-428f-90f7-9f22769c1241)
-
-
-
+![IMG-20250323-WA0017](https://github.com/user-attachments/assets/b5debcae-a8fd-4773-8b12-b803c80b22b0)
+![IMG-20250323-WA0016](https://github.com/user-attachments/assets/aa049c37-4d92-4e17-88ee-68287a7180b9)
+![IMG-20250323-WA0015](https://github.com/user-attachments/assets/28629f65-5a12-4559-bce3-b8af019453fd)
+![IMG-20250323-WA0010](https://github.com/user-attachments/assets/e335cf33-0468-4b35-bf5a-7cd30c86ed86)
+![IMG-20250323-WA0008](https://github.com/user-attachments/assets/b93c093b-8880-4551-8460-d7f2c54a735f)
+![IMG-20250323-WA0019](https://github.com/user-attachments/assets/79072f43-84c3-4b84-9d3a-0ea898836540)
+![IMG-20250323-WA0018](https://github.com/user-attachments/assets/9d625010-017f-470e-8d9a-aa7e5973d896)
 
 
