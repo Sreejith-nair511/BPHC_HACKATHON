@@ -310,6 +310,17 @@ Open a pull request.
 
 #Swastha (Real-time Vital Signs Monitoring)
 
+
+
+![IMG-20250323-WA0020](https://github.com/user-attachments/assets/4e0be904-487b-437f-bfe1-63e8366b35f8)
+![IMG-20250323-WA0031](https://github.com/user-attachments/assets/2ae9b9b9-8621-48e6-b0ae-018f51b1da90)
+![IMG-20250323-WA0030](https://github.com/user-attachments/assets/a12b54e6-a2f6-41af-87fe-ef980790c849)
+![IMG-20250323-WA0029](https://github.com/user-attachments/assets/d23bd8aa-18ee-4c18-a937-6684cecdfd30)
+![IMG-20250323-WA0027](https://github.com/user-attachments/assets/921d1215-af77-4f5a-8523-858070f08e8e)
+![IMG-20250323-WA0022](https://github.com/user-attachments/assets/a38eaccc-71d9-4344-9406-f483305b275f)
+
+
+
 -Continuously monitors heart rate, SpO2, ECG, and fall detection in real-time.
 -Uses ESP32 to collect and transmit data via a local web-based interface.
 -Provides instant alerts for abnormal vital signs, ensuring timely medical intervention.
