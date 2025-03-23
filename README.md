@@ -1,4 +1,4 @@
-# VitalSyn
+# VittalSync
 
 VitalSyn is a modern healthcare monitoring and patient management system built using **Next.js (App Router)**, **TypeScript**, **Tailwind CSS**, and various UI components. It includes a **patient-doctor dashboard**, **emergency alert system**, **chatbot assistant**, and **wearable device integration**.
 
