@@ -292,4 +292,10 @@ Open a pull request.
 ![Screenshot 2025-03-22 223932](https://github.com/user-attachments/assets/aad7680f-ed24-43a5-a8bf-155bb2264fae)
 
 
+<h1>HARDWARE IMPLEMENTATION KADAMBANI </h1>
+![IMG-20250323-WA0008](https://github.com/user-attachments/assets/f190f6d7-9602-428f-90f7-9f22769c1241)
+
+
+
+
 
