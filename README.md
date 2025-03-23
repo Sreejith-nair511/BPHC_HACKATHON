@@ -274,6 +274,9 @@ Push to your branch.
 
 Open a pull request.
 
+<h1>The Hardware part is called as Trehan </h1>
+<h1>The softwarre part is called as Kadambani </h1>
+
 <h1>Images </h1>
 
 ![Screenshot 2025-03-22 223854](https://github.com/user-attachments/assets/e286907a-c1b1-4ea7-bba1-bd95c41a41ce)
