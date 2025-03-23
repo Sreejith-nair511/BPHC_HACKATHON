@@ -304,7 +304,6 @@ Open a pull request.
 ![IMG-20250323-WA0018](https://github.com/user-attachments/assets/9d625010-017f-470e-8d9a-aa7e5973d896)
 
 <H3>the dashborad implementation </H3>
+
 ![IMG-20250323-WA0004](https://github.com/user-attachments/assets/0cb8bb06-5e4e-483e-9854-9971c642a45e)
-
-
-
+![IMG-20250323-WA0005](https://github.com/user-attachments/assets/78d80a68-8a3f-4d4e-bc06-c30d5787d552)
