@@ -424,10 +424,9 @@ Feel free to open issues and pull requests to contribute. Ensure that your code 
 
 
 
-<h1>Smart watch ideation </
+<h1>Smart watch ideation </h1>
 
 https://github.com/user-attachments/assets/c68176ca-52eb-4729-a08c-a10d219efcb6
 
-h1>
 
 
