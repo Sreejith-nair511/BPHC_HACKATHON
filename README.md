@@ -386,7 +386,7 @@ SmartTwin is deployed on Vercel. Any push to the main branch triggers an automat
 5. Use AI-powered analytics for predictive maintenance and optimization.
 6. Visualize data in 3D models for better spatial analysis.
 
-## API Endpoints (If applicable)
+## API Endpoints (not implemented)
 | Endpoint | Method | Description |
 |----------|--------|-------------|
 | `/api/data` | GET | Fetch real-time system data |
