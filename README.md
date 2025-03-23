@@ -276,7 +276,6 @@ Open a pull request.
 
 <h1>Images </h1>
 ![Screenshot 2025-03-22 222747](https://github.com/user-attachments/assets/24cf07c3-3f6a-48bf-843c-608b8f148845)
-
 ![Screenshot 2025-03-22 223854](https://github.com/user-attachments/assets/e286907a-c1b1-4ea7-bba1-bd95c41a41ce)
 ![Screenshot 2025-03-22 223843](https://github.com/user-attachments/assets/ae03be5f-f683-4e15-adce-7a1f6a02c49c)
 ![Screenshot 2025-03-22 224327](https://github.com/user-attachments/assets/46d72ece-d447-4f14-9298-7e602181708b)
