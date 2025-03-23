@@ -308,6 +308,37 @@ Open a pull request.
 ![IMG-20250323-WA0004](https://github.com/user-attachments/assets/0cb8bb06-5e4e-483e-9854-9971c642a45e)
 ![IMG-20250323-WA0005](https://github.com/user-attachments/assets/78d80a68-8a3f-4d4e-bc06-c30d5787d552)
 
+#Swastha (Real-time Vital Signs Monitoring)
+
+-Continuously monitors heart rate, SpO2, ECG, and fall detection in real-time.
+-Uses ESP32 to collect and transmit data via a local web-based interface.
+-Provides instant alerts for abnormal vital signs, ensuring timely medical intervention.
+-Ideal for hospital patients, elderly individuals, and individuals with chronic conditions.
+-Helps in remote health monitoring, allowing family members and doctors to track a patient's well-being.
+-User-friendly interface with easy-to-read graphical data representation
+-Enables quick decision-making by healthcare providers based on live health parameters.
+
+#Netra (Vital Critical Care Monitoring System)
+
+-Monitors air quality (AQI), CO2 levels, temperature, humidity, sunlight, motion, and RFID-based patient identification.
+-Uses Arduino Mega and various sensors to ensure a safe and healthy hospital or ICU environment.
+-Detects harmful gases like methane and CO2, reducing the risk of respiratory issues.
+-PIR motion sensor ensures safety by detecting movement in patient areas.
+-RFID system instantly retrieves patient details, ensuring proper identification and tracking.
+-Data is visualized through a Processing-based graphical interface on a laptop, making it easy to analyze.
+-Helps in maintaining optimal environmental conditions, crucial for critical care patients.
+
+#Swastha Netra (Integrated Patient & Environment Monitoring System)
+
+-Combines Swastha and Netra into a holistic patient monitoring solution.
+-Monitors both vital signs and environmental conditions to ensure comprhensive healthcare support.
+-Helps doctors correlate health conditions with environmental factors (e.g., breathing issues due to poor AQI).
+-Provides a real-time safety net for critically ill patients by monitoring both body and surrounding.
+-Prevents medical emergencies through early alerts and real-time data tracking.
+-Improves patient care by giving a detailed, all-in-one health and environment report.
+-Helps caregivers and families remotely monitor patients through a centralized system.
+
+
 <h1>ArogyaPratibimb</h1>
 A digital body  twin and disease prediction service 
 
